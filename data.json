@@ -1,0 +1,47 @@
+[
+  {
+    "transaction_date": "2023-10-01",
+    "category": "Dining",
+    "amount": 45.50,
+    "type": "Expense",
+    "Merchant": "Pizza Hut",
+    "Payment_Method": "Credit Card",
+    "Notes": "Dinner with friends"
+  },
+  {
+    "transaction_date": "2023-10-03",
+    "category": "Salary",
+    "amount": 3500.00,
+    "type": "Income",
+    "Merchant": "Tech Corp Inc.",
+    "Payment_Method": "Bank Transfer",
+    "Notes": "Monthly Salary"
+  },
+  {
+    "transaction_date": "2023-10-05",
+    "category": "Transport",
+    "amount": 12.00,
+    "type": "Expense",
+    "Merchant": "Uber",
+    "Payment_Method": "PayPal",
+    "Notes": "Ride to work"
+  },
+  {
+    "transaction_date": "2023-10-10",
+    "category": "Groceries",
+    "amount": 150.75,
+    "type": "Expense",
+    "Merchant": "Walmart",
+    "Payment_Method": "Debit Card",
+    "Notes": "Weekly supplies"
+  },
+  {
+    "transaction_date": "2023-10-15",
+    "category": "Freelance",
+    "amount": 500.00,
+    "type": "Income",
+    "Merchant": "Upwork Client",
+    "Payment_Method": "PayPal",
+    "Notes": "Project completion bonus"
+  }
+]
